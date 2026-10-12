@@ -2,6 +2,10 @@
 
 **Clear inventory control. Rapid emergency response.**
 
+<p align="center">
+  <img src="screenshots/login.png" alt="StockAlert Login Interface" width="550" />
+</p>
+
 A standalone Java desktop application for managing emergency medical supplies, tracking response vehicles, organizing personnel, and coordinating disaster dispatch. Built with Java Swing and backed by MySQL.
 
 The system combines supply tracking with fleet and responder logistics into a single desktop dashboard. There is no external web server or complex cloud configuration required.
