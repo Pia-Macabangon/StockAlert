@@ -1,0 +1,17 @@
+# NetBeans build output
+**/build/
+**/dist/
+**/nbproject/private/
+.nb-cache/
+
+# Class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
